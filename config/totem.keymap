@@ -229,6 +229,8 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp RIGHT_SHIFT  &trans  &trans
                         &trans  &trans  &trans    &trans        &trans        &trans
             >;
+
+            label = "num_pad_layer";
         };
     };
 };
